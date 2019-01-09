@@ -1,0 +1,84 @@
+h1 {
+   position: absolute;
+    top: 2px;
+    left: 20px;
+    color: antiquewhite;
+    font-size: 50px
+}
+
+.imag {
+    display: none;
+}
+
+.Up h2 {
+    position: relative;
+    padding: 15px;
+    background: black;
+    text-align: center;
+    color: white;
+    top: -25px;
+}
+
+.topimg img {
+    position: relative;
+    width: 100%;
+}
+
+.logo { 
+    position: absolute;
+    top: 330px;
+    left: 1100px;
+}
+
+pre {
+    position: relative;
+    top: -85px;
+    font-size: 20px
+}
+
+.text {
+    position: relative;
+    top: -410px;
+    left: 250px;
+}
+
+.AboutUs {
+    position: relative;
+    padding: 0.1px;
+    background: black;
+    text-align: center;
+    color: white;
+    top: -25px;    
+}
+
+.aboutUsText {
+    position: relative;
+    top: -410px;
+    left: 250px;
+}
+
+.aboutUsText p {
+    position: relative;
+    left: 30px;
+    width: 50%;
+}
+
+.title {
+    position: relative;
+    padding: 0.1px;
+    background: black;
+    text-align: center;
+    color: white;
+    top: -25px;
+}
+
+.email {
+    position: relative;
+    top: -380px;
+    left: 250px;
+}
+
+
+    
+    
+    

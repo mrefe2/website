@@ -1,0 +1,165 @@
+.titulo {
+    position: absolute;
+    top: 0px;
+    text-decoration-style: solid;
+    font-size: 60px;
+}
+
+.topimg img {
+    position: relative;
+    width: 100%;
+    top: -45px
+}
+
+.Up h2 {
+    padding: 10px;
+    text-align: center;
+    top: -70px;
+    border: black 5px solid;
+    position: relative;
+}
+
+.logo {
+    position: relative;
+    top: -0px;
+    width="150px";
+    height="150px";
+}
+
+.buttons {
+    position: relative;
+    top: -720px;
+    left: 1010px;
+    font-size: 30px;
+}
+
+.buttons a {
+    padding: 10px;
+    background-color: greenyellow;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px
+}
+
+.home a {
+    position: relative;
+    top: -685px;
+    left: 900px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: blue;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px
+}
+
+.text {
+    position: relative;
+    top: -300px;
+    left: 300px;
+    
+}
+
+.AboutUs {
+    padding: 0px;
+    text-align: center;
+    position: relative;
+    border: black 5px solid;
+    top: -55px;
+}
+
+.jom a {
+    position: relative;
+    top: -675px;
+    left: 910px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: greenyellow;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px
+}
+
+.AU a {
+    position: relative;
+    top: -710px;
+    left: 1020px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: blue;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px
+}
+
+.contas a {
+    position: relative;
+    top: -740px;
+    left: 1175px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: greenyellow;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px
+}
+
+.aboutUsText {
+    position: relative;
+    top: -300px;
+    left: 300px;
+    width: 75%;
+}
+
+.aboutUsText h2 {
+    position: relative;
+    left: -50px;
+}
+
+.title { 
+    padding: 0px;
+    text-align: center;
+    position: relative;
+    border: black 5px solid;
+    top: -55px;
+}
+
+.botones a {
+    position: relative;
+    top: -650px;
+    left: 900px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: greenyellow;
+    border: 1px solid;
+    box-shadow: 5px 10px;
+}
+
+.contabtn a {
+    font-size: 30px;
+    padding: 10px;
+    background-color: blue;
+    border: 1px solid;
+    box-shadow: 5px 10px;
+    position: relative;
+    top: -685px;
+    left: 1145px;
+}
+
+.email {
+    position: relative;
+    width: 50%;
+    top: -250px;
+    left: 250px;
+}
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    

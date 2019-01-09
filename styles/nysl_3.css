@@ -1,0 +1,427 @@
+.left {
+        grid-column: 4/5;
+    grid-row: 100%;
+}
+
+.right {
+    grid-column: 1/2;
+}
+
+.título {
+    margin: 0px;
+    text-align: center;
+    font-size: 50px;
+    border: solid
+}
+
+.topimg {
+    position: absolute;
+    left: 247px;
+}
+
+.Up h2 {
+    position: relative;
+    top: 225px;
+    text-align: center;
+    padding: 10px;
+}
+
+.logo img {
+    position: absolute;
+    left: 270px;
+    top: 250px;
+    height: 150px;
+}
+
+.home a {
+    grid-column: 2/3;
+    grid-row: 2;
+    text-decoration: none;
+    display: flex;
+    align-content: space-between;
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkkhaki;
+}
+    
+.buttons {
+    grid-column: 2/3;
+    grid-row: 2;
+    display: flex;
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkgoldenrod;    
+}
+
+.contacB {
+    grid-column: 2/3;
+    grid-row: 2;
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkgoldenrod;
+}
+    
+
+.text {
+        grid-column: 3/4;
+    grid-row: 2/3;
+    /* width: 80%; */
+    /* display: flex; */
+    margin: 5%;
+    min-height: 200px;
+}
+
+    
+.text h3 {
+    grid-column: 3/4;
+    grid-row: 2;
+}
+
+.AboutUs {
+   position: relative;
+    top: 225px;
+    text-align: center;
+    padding: 10px;
+}
+
+.jom a {
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkgoldenrod;
+}
+
+.AU a { 
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkkhaki;
+}
+
+.contas a {
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkgoldenrod
+}
+
+.aboutUsText {
+    grid-column: 3/4;
+    grid-row: 2;
+    margin: auto;
+}
+
+.aboutUsText h2 {
+    position: relative;
+}
+
+.logo img {
+    position: absolute;
+    left: 270px;
+    top: 250px;
+    width= 150px; 
+    height= 150px;
+}
+
+.title {
+   position: relative;
+    top: 225px;
+    text-align: center;
+    padding: 10px;    
+}
+
+.botones a {
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkgoldenrod;
+}
+
+.butong a {
+    position: absolute;
+    top: 510px;
+    left: 270px;
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkgoldenrod;
+}
+
+.contabtn a {
+    top: 590px;
+    left: 270px;
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkkhaki;
+}
+
+.email {
+    top: 410px;
+    left: 500px;
+    width: 45%;
+}
+
+.reglas {
+    position: absolute;
+    left: 450px;
+    top: 400px;
+}
+
+.RulesB {
+    position: absolute;
+    top: 670px;
+    left: 270px;
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkkhaki;
+}
+
+.RulesB1 {
+    grid-column: 2/3;
+    grid-row: 2;
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkgoldenrod;
+}
+
+.GameinfoB {
+    grid-column: 2/3;
+    grid-row: 2;
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkkhaki;
+}
+
+.GameinfoB1 {
+    grid-column: 2/3;
+    padding: 15px;
+    font-size: 30px;
+    background-color: darkgoldenrod;
+}
+
+.subtitle {
+    position: absolute;
+    top: 400px;
+    left: 470px;
+}
+
+.sportm {
+    position: absolute;
+    top: 450px;
+    left: 470px;
+    width: 45%;
+}
+
+.sportm dt {
+    font-family: fantasy;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.adinfo {
+    font-style: oblique;
+    text-decoration-line: underline;
+}
+
+table {
+    position: absolute;
+    top: 500px;
+    left: 470px;
+    width: 45%;
+}
+
+table th {
+    position: relative;
+    text-decoration-line: underline;
+    text-align: left
+}
+
+.tb2 {
+    position: absolute;
+    top: 750px;
+    left: 470px;
+}
+
+.GL {
+    position: absolute;
+    top: 960px;
+}
+
+.FT {
+    position: absolute;
+    top: 2250px;
+    left: 470px;
+}
+
+.AI {
+    position: absolute;
+    width: 45%;
+    top: 2275px;
+    left: 470px;
+}
+
+.Curs {
+    font-style: oblique;
+}
+
+.PT {
+    position: absolute;
+    left: 470px;
+    top: 2330px;
+}
+
+.Ph {
+    position: absolute;
+    top: 2370px;
+    left: 470px;
+}
+
+.emilio {
+    position: absolute;
+    top: 2370px;
+    left: 730px;
+    width: 20%;
+}
+    
+form {
+    position: absolute;
+    top: 400px;
+    left: 470px;
+}
+
+.SU {
+    position: absolute;
+    top: 280px;
+    left: 970px;
+    padding: 10px;
+    background-color: darkgrey;
+    border: 1px solid black;
+    box-shadow: 4px 8px;
+}
+    
+.legalterms {
+    width: 65%;
+}
+
+.registro {
+   font-weight: bold;
+}
+
+form {
+    width: 45%;
+}
+
+.L1 {
+    display: flex;
+    justify-content: space-between;    
+}
+
+.L2 input {
+    width: 500px;
+}
+
+.L3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.L4 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.L5 input {
+    width: 489px
+}
+
+.L6 { 
+    display: flex;
+    justify-content: space-between;
+}
+
+.L7 {
+    display: flex;
+    }
+
+.c1 {
+    display: flex;
+    width: 50%;
+    flex-direction: column; 
+}
+
+.c2 { 
+   display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+
+.L8 {
+    display: flex;
+    width: 30%;
+}
+
+.L9 {
+    display: flex;
+    flex-direction: column;
+   }
+
+.titlex {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.subtitlex {
+    position: relative;
+    left: 320px;
+}
+
+.c11 {
+    display: flex;
+}
+
+.c12 {
+   display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.c21 {
+    display: flex;
+    width: 50%;
+}
+
+.c22 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.legalterms {
+    width: 100%;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 18% 15% 51% 17%;
+    grid-template-rows: 400px 1fr;
+}
+
+.Upside {
+    grid-column: 2/4;
+    grid-row: 1;
+}
+
+.botoneh {
+    height: 100%;
+    grid-column: 2/3;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    grid-row: 2/3;
+}
+
+
+    
+    
+
+    
+
+
+
