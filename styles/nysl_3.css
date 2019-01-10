@@ -1,9 +1,11 @@
 .left {
-        grid-column: 4/5;
-    grid-row: 100%;
+    right: 0;
+    position: fixed;
+    grid-column: 4/5;
 }
 
 .right {
+    position: fixed;
     grid-column: 1/2;
 }
 
@@ -17,13 +19,6 @@
 .topimg {
     position: absolute;
     left: 247px;
-}
-
-.Up h2 {
-    position: relative;
-    top: 225px;
-    text-align: center;
-    padding: 10px;
 }
 
 .logo img {
@@ -63,10 +58,8 @@
     
 
 .text {
-        grid-column: 3/4;
+    grid-column: 3/4;
     grid-row: 2/3;
-    /* width: 80%; */
-    /* display: flex; */
     margin: 5%;
     min-height: 200px;
 }
@@ -85,18 +78,21 @@
 }
 
 .jom a {
+    display: grid;
     padding: 15px;
     font-size: 30px;
     background-color: darkgoldenrod;
 }
 
-.AU a { 
+.AU a {
+    display: grid;
     padding: 15px;
     font-size: 30px;
     background-color: darkkhaki;
 }
 
 .contas a {
+    display: grid;
     padding: 15px;
     font-size: 30px;
     background-color: darkgoldenrod
@@ -128,23 +124,21 @@
 }
 
 .botones a {
+    display: grid;
     padding: 15px;
     font-size: 30px;
     background-color: darkgoldenrod;
 }
 
 .butong a {
-    position: absolute;
-    top: 510px;
-    left: 270px;
+    display: grid;
     padding: 15px;
     font-size: 30px;
     background-color: darkgoldenrod;
 }
 
 .contabtn a {
-    top: 590px;
-    left: 270px;
+    display:  grid;
     padding: 15px;
     font-size: 30px;
     background-color: darkkhaki;
@@ -163,9 +157,6 @@
 }
 
 .RulesB {
-    position: absolute;
-    top: 670px;
-    left: 270px;
     padding: 15px;
     font-size: 30px;
     background-color: darkkhaki;
@@ -279,12 +270,6 @@ table th {
     left: 730px;
     width: 20%;
 }
-    
-form {
-    position: absolute;
-    top: 400px;
-    left: 470px;
-}
 
 .SU {
     position: absolute;
@@ -305,7 +290,7 @@ form {
 }
 
 form {
-    width: 45%;
+    width: 91%;
 }
 
 .L1 {
@@ -354,7 +339,7 @@ form {
 
 .L8 {
     display: flex;
-    width: 30%;
+    width: 100%;
 }
 
 .L9 {
@@ -379,7 +364,7 @@ form {
 .c12 {
    display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 34%;
 }
 
 .c21 {
@@ -400,7 +385,7 @@ form {
 .container {
     display: grid;
     grid-template-columns: 18% 15% 51% 17%;
-    grid-template-rows: 400px 1fr;
+    grid-template-rows: 400px 500px;
 }
 
 .Upside {
@@ -417,11 +402,13 @@ form {
     grid-row: 2/3;
 }
 
+.Up2 {
+    position: relative;
+    top: 285px;
+    text-align: center;
+    left: 560px;
 
-    
-    
-
-    
+}
 
 
 
